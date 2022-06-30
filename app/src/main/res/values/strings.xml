@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wetter-App</string>
+    <string name="weather_prefix">Das Wetter in ...</string>
+</resources>
